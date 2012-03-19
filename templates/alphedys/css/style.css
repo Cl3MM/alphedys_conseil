@@ -212,7 +212,11 @@ body {	margin-top:0.5em;}
 	padding:0;
 	margin:0;
 }
-form.search {padding: 0; margin:0;}
+form .search {
+  padding: 0;
+  background-color: red;
+  margin:0;
+}
 
 #search {
 	float:right;
@@ -223,6 +227,11 @@ form.search {padding: 0; margin:0;}
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 	/*behavior: url(PIE.htc);*/
+}
+#searchbar a {
+  float: right;
+  padding-right: 1.5em;
+  line-height: 25px;
 }
 #search input.inputbox {
 	margin: 0.3em 0.3em 0 0.3em;
