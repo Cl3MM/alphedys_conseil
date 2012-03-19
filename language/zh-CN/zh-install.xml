@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="language" version="1.5.7" client="site">
+  <name>简体中文 - 网站前台</name>
+  <tag>zh-CN</tag>
+  <version>1.5.7</version>
+  <creationDate>2008-09-10</creationDate>
+  <author>Joomla! Chinese Translation Team</author>
+  <authorEmail>zhous1998@sohu.com 334000@gmail.com</authorEmail>
+  <description>Joomla!网站前台简体中文语言文件</description>
+  <files>
+    <file file="meta">zh-CN.xml</file>
+    <file>index.html</file>
+    <file>zh-CN.com_banners.ini</file>
+    <file>zh-CN.com_contact.ini</file>
+    <file>zh-CN.com_content.ini</file>
+    <file>zh-CN.com_frontpage.ini</file>
+    <file>zh-CN.com_mailto.ini</file>
+    <file>zh-CN.com_media.ini</file>
+    <file>zh-CN.com_messages.ini</file>
+    <file>zh-CN.com_newsfeeds.ini</file>
+    <file>zh-CN.com_poll.ini</file>
+    <file>zh-CN.com_search.ini</file>
+    <file>zh-CN.com_user.ini</file>
+    <file>zh-CN.com_weblinks.ini</file>
+    <file>zh-CN.com_wrapper.ini</file>
+    <file>zh-CN.ignore.php</file>
+    <file>zh-CN.ini</file>
+    <file>zh-CN.mod_archive.ini</file>
+    <file>zh-CN.mod_banners.ini</file>
+    <file>zh-CN.mod_breadcrumbs.ini</file>
+    <file>zh-CN.mod_custom.ini</file>
+    <file>zh-CN.mod_feed.ini</file>
+    <file>zh-CN.mod_footer.ini</file>
+    <file>zh-CN.mod_latestnews.ini</file>
+    <file>zh-CN.mod_login.ini</file>
+    <file>zh-CN.mod_mainmenu.ini</file>
+    <file>zh-CN.mod_mostread.ini</file>
+    <file>zh-CN.mod_newsflash.ini</file>
+    <file>zh-CN.mod_online.ini</file>
+    <file>zh-CN.mod_poll.ini</file>
+    <file>zh-CN.mod_random_image.ini</file>
+    <file>zh-CN.mod_related_items.ini</file>
+    <file>zh-CN.mod_search.ini</file>
+    <file>zh-CN.mod_sections.ini</file>
+    <file>zh-CN.mod_stats.ini</file>
+    <file>zh-CN.mod_syndicate.ini</file>
+    <file>zh-CN.mod_whosonline.ini</file>
+    <file>zh-CN.mod_wrapper.ini</file>
+    <file>zh-CN.plg_content_vote.ini</file>
+    <file>zh-CN.plg_search_categories.ini</file>
+    <file>zh-CN.plg_search_contacts.ini</file>
+    <file>zh-CN.plg_search_content.ini</file>
+    <file>zh-CN.plg_search_newsfeeds.ini</file>
+    <file>zh-CN.plg_search_sections.ini</file>
+    <file>zh-CN.plg_search_weblinks.ini</file>
+    <file>zh-CN.plg_system_debug.ini</file>
+    <file>zh-CN.tpl_beez.ini</file>
+    <file>zh-CN.tpl_rhuk_milkyway.ini</file>
+    <file>zh-install.xml</file>
+  </files>
+  <fonts>
+    <filename>gbsn00lp.php</filename>
+    <filename>gbsn00lp.z</filename>
+    <filename>gbsn00lp.ctg.z</filename>
+  </fonts>
+</install>

@@ -1,0 +1,7 @@
+Sitemap: http://www.alphedys.fr/sitemap.xml
+User-agent: *
+Disallow: /administrator/
+Disallow: /images/
+Disallow: /media/
+Disallow: /templates/
+Disallow: /jsmallfib_top/

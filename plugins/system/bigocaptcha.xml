@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system">
+	<name>System - BigoCaptcha</name>
+	<author>Matheus Mendes</author>
+	<creationDate>November 2007</creationDate>
+	<copyright>(C) 2007 - bigodines.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>bigodines@joomla.com.br</authorEmail>
+	<authorUrl>www.bigodines.com</authorUrl>
+	<version>1.2</version>
+	<description>Provides a captcha image and checks to ensure it is valid.</description>
+	<files folder="plugins/system">
+		<filename plugin="bigocaptcha">bigocaptcha.php</filename>
+		<folder>Captcha04</folder>
+	</files>
+
+        <params>
+                <param name="word_len" type="text" default="4" label="Word length" description="How many letters must the captcha have?"/>
+        </params>
+</install>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.7.3" -->
+<rss version="2.0">
+	<channel>
+		<title>Fichiers récents</title>
+		<description>Derniers fichiers envoyés</description>
+		<link>http://127.0.0.1/joomla/ressources/telechargements</link>
+		<lastBuildDate>Mon, 12 Jul 2010 09:12:53 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.3</generator>
+		<image>
+			<url>http://127.0.0.1/joomla/components/com_remository/images/header.gif</url>
+			<title>Fichiers récents</title>
+			<link>http://127.0.0.1/joomla/ressources/telechargements</link>
+			<description>Alphedys Conseil</description>
+		</image>
+	</channel>
+</rss>

@@ -1,0 +1,25 @@
+#search {
+
+}
+#search {
+	height: 22px;
+	line-height: 22px;
+}
+#search input.inputbox {
+	vertical-align: middle;
+	height: 20px;
+	line-height: 20px;
+}
+
+/*#search input.inputbox :hover { border: 2px solid #F58428; }*/
+
+#search input.button {
+	background: url("../images/search.jpg") no-repeat 0 0;
+	margin: 0 0.2em 0em 0;
+	width:20px;
+	height: 19px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+#ddintro { float: right; width: 65%; display: block;}

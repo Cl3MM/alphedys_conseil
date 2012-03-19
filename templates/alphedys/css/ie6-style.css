@@ -1,0 +1,129 @@
+/*#hd { }
+
+*/
+
+#doc {
+	margin: 0 auto;
+	padding:0;
+	width: 900px;
+}
+
+#hd {
+	background-color:#eee;
+	border: 5px solid #fff;
+	height: 120px;
+}
+
+#rh {
+	width: 98%;
+}
+#menu {
+	width: 24%;
+}
+
+#navigation li {
+	padding : 4px 6px 20px 7px;
+}
+#navigation li:hover {
+	background-image: none;
+	border-top: 3px solid #aaa;
+}
+#navigation li a:link, #navigation li a:active, #navigation li a:visited {
+	display: inline;
+}
+
+#navigation span.sub {
+	display: inline;
+	float:left;
+}
+
+#breadcrumb li:before {
+	content: " &#187; ";
+}
+
+/* Easy Slider */
+
+
+#slider-box {
+	position:relative;
+}
+
+#slider {
+	margin: 1em 0;
+	background-color:#fff;
+	margin-left: 18px;
+}
+
+#prevBtn, #nextBtn{
+	margin:0;
+	padding:0;
+	display:block;
+	overflow:hidden;
+	text-indent:-8000px;
+}
+
+#slider ul, #slider li {
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+#slider li {
+	width:820px;
+	height:230px;
+	overflow:hidden;
+}	
+#prevBtn, #nextBtn{ 
+	display:block;
+	width:30px;
+	height:30px;
+	position:absolute;
+	left: -30px;
+	top: 110px;
+}
+#nextBtn{
+	left: 820px;
+}
+#prevBtn a, #nextBtn a{
+	display:block;
+	width:30px;
+	height:307px;
+	background:url("../images/prev1.png") no-repeat 0 0;
+}	
+#nextBtn a{ 
+	background:url("../images/next1.png") no-repeat 0 0;
+}
+
+/* Fin Easy Slider */
+img.exergue {width: 800px; margin:0 2em;}
+
+#bottom .specs {
+	width: 31.5%;
+}
+#about ul.sub { 
+	margin-top: 0.6em;
+	vertical-align: top;
+}
+
+#bottom .specs, #expertise .specs, #prevention .specs {
+	width: 28%;
+	/*height: 470px;*/
+}
+#bottom .specs img, #expertise .specs img, #prevention .specs img{
+	width : 230px;
+}
+#expertise-top-in {background-color: white; padding: 1em; display: block; overflow: none;}
+#expertise-top-in.bdblue img {height: 190px;}
+#ddintro { float: right; width: 64%; display: block;}
+/*
+.spacer {clear:both; background-color:green; margin:0; padding:0;}
+*/
+/*.sec-art-header { border-bottom:1px solid #666; height: 3em; margin: 0 -10px; padding: 0 10px; margin-bottom: 1em;}*/
+
+/*.sec-art-header  { background-color:yellow; margin:0; padding:0;}
+.art-title  h2 {margin:0; padding:0;}
+.art-title  h2 a {margin:0; padding:0;}
+
+.pageinfo  { background-color:red; margin:0; padding:0;}
+
+.art-content {clear: both;}
+*/

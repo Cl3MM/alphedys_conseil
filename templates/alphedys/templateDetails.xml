@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>Alphedys</name>
+	<version>0.5</version>
+	<creationDate>16/03/2010</creationDate>
+	<author>Cl3M</author>
+	<authorEmail>clem@joomlart.com</authorEmail>
+	<authorUrl>http://www.joomlart.com</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL version 2</license>
+	<description>Alphedys</description>
+<files>
+		<filename>favicon.ico</filename>
+		<filename>html/com_content/section/index.html</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>ja_templatetools.php</filename>
+		<filename>ja_vars.php</filename>
+		<filename>js/ja.cssmenu.js</filename>
+		<filename>js/ja.moomenu.js</filename>
+		<filename>js/ja.rightcol.js</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	<images>
+		<filename>images/arrow.png</filename>
+		<filename>images/arrow2.png</filename>
+
+	</images>
+	<css>
+		<filename>css/ja-sosdmenu.css</filename>
+		<filename>css/menu.css</filename>
+	</css>
+	<languages>
+		<language tag="en-GB">en-GB.tpl_ja_purity.ini</language>
+	</languages>
+	<administration>
+    	<languages>
+			<language tag="en-GB">admin/en-GB.tpl_ja_purity.ini</language>
+		</languages>
+    </administration>
+
+	<positions>
+		<position>hornav</position>
+		<position>breadcrumbs</position>
+		<position>banner</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>footer</position>
+		<position>syndicate</position>
+		<position>debug</position>
+	</positions>
+
+</install>

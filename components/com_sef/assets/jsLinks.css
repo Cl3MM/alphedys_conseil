@@ -1,0 +1,9 @@
+div.jsLinks {
+    background-color: #ffffd7;
+    padding: 5px;
+    border: 1px solid #000;
+}
+
+div.jsLinks .jsWord {
+    font-weight: bold;
+}
